@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "reseau.h": "c",
+        "adresse.h": "c",
+        "station.h": "c",
+        "switch.h": "c",
+        "string.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/acelya/Bureau/SAE S/s21-simulation-reseau"
+}
